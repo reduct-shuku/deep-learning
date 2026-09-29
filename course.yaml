@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "course_id": "course-c6909703-6b1",
+  "type": "official",
+  "title": "deep learning",
+  "description": "深度学习入门",
+  "lesson": "认识输入、权重与输出",
+  "theme": "neural",
+  "build_profile": "static",
+  "entry": "index.html"
+}
