@@ -15,6 +15,6 @@
   "path": ".",
   "contributing": "CONTRIBUTING.md",
   "changes": [
-    "统一为 Shuku 标准仓库格式，保留原课程内容和平台身份"
+    "完善课程框架"
   ]
 }
